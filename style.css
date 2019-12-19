@@ -1,8 +1,9 @@
 h1 {
-        background-color: #99B5DD;
         height: 60px;
         padding: 10px;
         margin: 10px;
+        text-align: center;
+        font-family: cursive;
 }
     
 p {
