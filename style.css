@@ -1,0 +1,23 @@
+h1 {
+        background-color: #99B5DD;
+        height: 60px;
+        padding: 10px;
+        margin: 10px;
+}
+    
+p {
+      margin: 10px;
+      padding: 10px;
+      background-color: #faf8f5;
+
+}
+
+.iframe_class {
+      margin: 10px;
+      padding: 10px;
+      text-align: center;
+}
+
+.section {
+      text-align: center;
+}
