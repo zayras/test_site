@@ -1,3 +1,11 @@
 permalink: pretty
 
 theme: jekyll-theme-merlot
+
+defaults:
+-
+   scope:
+     path: ""
+     type: "pages"
+   values:
+     permalink: "/:path/:basename/"
