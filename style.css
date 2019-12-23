@@ -1,3 +1,11 @@
+body [
+        background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        filter: blur(2px);
+        -webkit-filter: blur(2px);
+}
+
 h1 {
         height: 60px;
         padding: 10px;
