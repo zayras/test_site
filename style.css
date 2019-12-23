@@ -28,9 +28,11 @@ p {
 }
 
 .bg-img {
-        background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        filter: blur(2px);
-        -webkit-filter: blur(2px);
+          background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
+          filter: blur(8px);
+          -webkit-filter: blur(8px);
+          height: 100%; 
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
 }
