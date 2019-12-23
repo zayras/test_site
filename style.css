@@ -5,6 +5,10 @@ body {
           background-size: cover;
 }
 
+html {
+          scroll-behavior: smooth;
+}
+
 h1 {
           height: 60px;
           padding: 10px;
