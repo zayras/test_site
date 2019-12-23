@@ -36,3 +36,7 @@ a {
 .content {
           color: white;
 }
+
+#i_class {
+          border: 2px white solid;
+}
