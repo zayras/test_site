@@ -1,9 +1,6 @@
-.bg-img {
-        background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        filter: blur(2px);
-        -webkit-filter: blur(2px);
+body, html {
+          height: 100%;
+          margin: 0;
 }
 
 h1 {
@@ -28,4 +25,12 @@ p {
 
 .section {
       text-align: center;
+}
+
+.bg-img {
+        background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        filter: blur(2px);
+        -webkit-filter: blur(2px);
 }
