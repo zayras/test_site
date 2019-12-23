@@ -1,6 +1,8 @@
-body, html {
-          height: 100%;
-          margin: 0;
+body {
+          background-image: url('http://free-hd-wall-papers.com/images/hd-galaxy-wallpaper/hd-galaxy-wallpaper-9.jpg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
 }
 
 h1 {
@@ -25,36 +27,4 @@ p {
 
 .section {
       text-align: center;
-}
-
-.bg-img {
-          background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
-          filter: blur(8px);
-          -webkit-filter: blur(8px);
-          height: 100%; 
-          background-position: center;
-          background-repeat: no-repeat;
-          background-size: cover;
-}
-
-.content:before {
-          background-image: url('https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2015/11/stocksnap.jpg');
-          content: "";
-          position: fixed;
-          left: 0;
-          right: 0;
-          z-index: -1;
-          display: block;
-          filter: blur(2px);
-          -webkit-filter: blur(2px);
-
-}
-
-.content {
-         position: fixed;
-         left: 0;
-         right: 0;
-         z-index: 0;
-         margin-left: 20px;
-         margin-right: 20px;
 }
